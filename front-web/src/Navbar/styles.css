@@ -1,0 +1,22 @@
+.main-navbar { 
+    position: absolute;
+    width: 1440px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: rgba(10, 10, 10, 0.671);
+    padding-left: 45px;
+
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: -0.015em;
+    margin-left: 15px;
+    font-family: 'Roboto' sans-serif;
+    color: #FFFFFF;
+}
