@@ -1,6 +1,6 @@
 .home-container {
     padding-top: 100px;
-    height: calc(100vh - 254px);
+    height: calc(100vh - 220px);
   }
   
   .home-container h1 {
@@ -32,7 +32,7 @@
   }
   
   .home-btn-order {
-    background-color: rgb(61, 235, 61);
+    background-color: var(--primary-color);
     border-radius: 10px;
     height: 70px;
     width: 235px;
