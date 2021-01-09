@@ -7,8 +7,8 @@
     color: #FFFFFF;
     bottom: 0;
     width: 100%;
-    height: 100px;  
-    position: absolute;
+    height: 60px;  
+    position: fixed;
   }
   
   .footer-icons {

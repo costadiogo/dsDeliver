@@ -189,6 +189,7 @@
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
+    margin-top: 20px;
   }
   
   .order-summary-content {
@@ -275,7 +276,7 @@
     }
   
     .order-location-content {
-      width: 90%;
+      width: 80%;
     }
   
     .order-location-container {
@@ -283,7 +284,7 @@
     }
   
     .order-summary-content {
-      width: 80%;
+      width: 60%;
       display: flex;
       flex-direction: column;
     }
